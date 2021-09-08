@@ -1,16 +1,14 @@
-### Hi there 👋
+# A fellow coder from Milan, Italy
 
-<!--
-**FubyCoder/FubyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here's what i'm into : 
 
-Here are some ideas to get you started:
+- 💡 Working for [Becreatives](https://becreatives.com/it/)
+- 📖 Learning Animation with React and React-Native (this is pain but they look good)
+- 🔭 Looking to make my first npm package for styling in react-native
+- 📖 Want to learn c++ and maybe some opengl (i'll have some time in the future, i hope)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# One thing i love and hate about coding : 
+
+- ❤️ The feel of power it gives
+- 💀 Time schedules are always a mess
