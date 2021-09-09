@@ -1,5 +1,8 @@
 # A fellow coder from Milan, Italy
 
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/61201884"  height="200px" />
+</p>
 
 ## Programming Languages : 
 
