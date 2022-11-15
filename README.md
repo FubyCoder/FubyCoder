@@ -13,13 +13,13 @@
 
 ## Framework Used the most : 
 
-- ⚛️ Almost 1 and 1/2 year with React-js
-- ⚛️ Almost 1 year with React-Native (Expo)
-- ⚛️ Almost 1 year with Express-JS
+- ⚛️ Almost 2 and 1/2 year with React-js
+- ⚛️ Almost 2 year with React-Native (Expo)
+- ⚛️ Almost 2 year with Express-JS
 
 ## DB Used : 
 
-- 📙 1 year with Mongodb
+- 📙 2 year with Mongodb
 - 📙 2 and 1/2 years of MySQL
 
 ## Here's what i'm into : 
