@@ -7,19 +7,19 @@
 ## Programming Languages : 
 
 - 📙 4 years of Java (i hate it)
-- 📙 1 and 1/2 years of Typescript and Javascipt 
+- 📙 3 and 1/2 years of Typescript and Javascipt 
 - 📙 1 year of Python (still very basic, i'm not using it so much) 
 
 
 ## Framework Used the most : 
 
-- ⚛️ Almost 2 and 1/2 year with React-js
-- ⚛️ Almost 2 year with React-Native (Expo)
-- ⚛️ Almost 2 year with Express-JS
+- ⚛️ Almost 3 and 1/2 year with React-js
+- ⚛️ Almost 3 year with React-Native (Expo)
+- ⚛️ Almost 3 year with Express-JS
 
 ## DB Used : 
 
-- 📙 2 year with Mongodb
+- 📙 3 year with Mongodb
 - 📙 2 and 1/2 years of MySQL
 
 ## Here's what i'm into : 
